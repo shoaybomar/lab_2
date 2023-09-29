@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab_2</string>
+    <string name="i_love_android">I love Android</string>
+    <string name="iloveandroid">I love Android</string>
+    <string name="checkthisout">Check this out!</string>
+    <string name="pressme">Press Me</string>
+    <string name="iloveandroid2">I love Android</string>
+    <string name="americanflag">American Flag</string>
+    <string name="iloveandroid3">I love Android</string>
+    <string name="americanflag2">American Flag</string>
+    <string name="checkthisout2">Check this out!</string>
+    <string name="pressme2">Press Me</string>
+    <string name="americanflag3">American Flag</string>
+</resources>
